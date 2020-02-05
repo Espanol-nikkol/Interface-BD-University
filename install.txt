@@ -4,6 +4,16 @@
 - удалить содержимое папки с Denver вручную
 - разархивировать в данную папку архив с неофициальным дополнением
 - скачать файлы сайта (папка "interface") в директорию Denver\home\localhost\www\
-- создать базу данных "univer" и наполнить её с помощью скрипта "bd_univer.sql"
+- создать базу данных "univer" и наполнить её с помощью скрипта "db_univer.sql"
 - запустить Denver
 - сайт доступен по адресу http://localhost/interface/index.php
+
+Instructions for launching the site:
+- Download and install Denver 3 from the official website of the developer - http://www.denwer.ru/
+- download an unofficial addition to Denver from http://www.landgraph.ru/products/programms/denwer.html
+- delete contents of a folder from Denver manually
+- unzip the archive with an unofficial addition to this folder
+- download site files (folder "interface") to the directory Denver \ home \ localhost \ www \
+- create a database "univer" and fill it with the script "db_univer.sql"
+- run Denver
+- the site is available at http: //localhost/interface/index.php
