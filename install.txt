@@ -1,0 +1,9 @@
+Инструкция по запуску сайта:
+- скачать и установить Denver 3 с официального сайта разработчика - http://www.denwer.ru/
+- скачать неофициальное дополнение к Denver c http://www.landgraph.ru/products/programms/denwer.html
+- удалить содержимое папки с Denver вручную
+- разархивировать в данную папку архив с неофициальным дополнением
+- скачать файлы сайта (папка "interface") в директорию Denver\home\localhost\www\
+- создать базу данных "univer" и наполнить её с помощью скрипта "bd_univer.sql"
+- запустить Denver
+- сайт доступен по адресу http://localhost/interface/index.php
